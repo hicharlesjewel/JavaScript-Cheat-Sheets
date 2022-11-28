@@ -30,3 +30,10 @@ _lowerCamelCase_
 - **Objetos:** miObjeto
 - **Funciones:** miFuncion
 - **Instancia:** miInstancia
+
+### **Orden de código**
+
+1. Importación de módulos
+2. Declaración de variables
+3. Declaración de funciones
+4. Ejecución de código
